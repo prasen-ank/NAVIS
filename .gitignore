@@ -1,0 +1,18 @@
+in# Python
+__pycache__/
+*.py[cod]
+*.env
+.venv/
+
+# Chroma DB persistence
+chroma_db/
+
+# Streamlit cache
+.streamlit/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# static images
+static/
